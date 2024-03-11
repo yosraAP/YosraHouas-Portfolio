@@ -75,11 +75,11 @@ export default function About() {
         </defs>
       </svg>
       <div className="mx-auto max-w-7xl px-3 lg:px-4">
-        <div className="mx-auto mt-12 max-w-2xl rounded-3xl ring-1 ring-textNude sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">
+        <div className="mx-auto mt-10 max-w-2xl rounded-3xl ring-1 ring-textNude sm:mt-20 lg:mx-0 lg:flex lg:max-w-none">
           <div className="p-8 sm:p-10 lg:flex-auto">
             <h1
               data-aos="fade-right"
-              className="lg:text-[50px] text-[22px] font-semibold title tracking-tight text-white mb-4"
+              className="lg:text-[50px] text-[22px] font-semibold title tracking-tight text-white mb-2"
             >
               {t("titreAbout")}{" "}
               <span className="text-textPinkcustom">{t("Me")}</span>

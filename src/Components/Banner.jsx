@@ -71,7 +71,6 @@ export default function Banner() {
                 options={{
                   strings: [
                     t("bannerT1"),
-                    t("bannerT"),
                     t("bannerT2"),
                     t("bannerT3"),
                     t("bannerT4"),
